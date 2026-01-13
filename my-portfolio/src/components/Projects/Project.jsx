@@ -1,7 +1,7 @@
 import React from 'react'
 import './Project.css'
 import theme_pattern from '../../assets/Theme_pattern.svg'
-import mywork_data from '../../assets/Mywork_data'
+import mywork_data from '../../assets/Mywork_data.js'
 import arrow_icon from '../../assets/Arrow_icon.svg'
 const Project = () => {
   return (
