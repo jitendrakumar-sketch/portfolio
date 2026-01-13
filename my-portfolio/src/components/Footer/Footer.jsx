@@ -1,7 +1,7 @@
 import React ,{useState}from 'react'
 import './Footer.css'
-import footer_logo from '../../assets/logo_2_3kb.png'
-import user_icon from '../../assets/user_icon.svg'
+import footer_logo from '../../assets/Logo_2_3kb.png'
+import user_icon from '../../assets/User_icon.svg'
 const Footer = () => {
   const [email, setEmail] = useState("");
   const handleSubscribe = () => {
