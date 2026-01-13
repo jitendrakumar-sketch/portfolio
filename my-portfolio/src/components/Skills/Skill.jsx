@@ -1,7 +1,7 @@
 import React from 'react'
 import './Skill.css'
 import theme_pattern from '../../assets/Theme_pattern.svg'
-import Services_Data from '../../assets/Services_data'
+import Services_Data from '../../assets/Services_data.js'
 import arrow_icon from '../../assets/Arrow_icon.svg'
 const Skill = () => {
   return (
