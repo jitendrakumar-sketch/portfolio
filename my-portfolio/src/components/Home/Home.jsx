@@ -1,7 +1,7 @@
 import React, {useState,useEffect}from 'react'
 import './Home.css'
-import profile_img1 from '../../assets/profile-circle2.png'
-import profile_img2 from'../../assets/profile-gifi.png'
+import profile_img1 from '../../assets/Profile-circle2.png'
+import profile_img2 from'../../assets/Profile-gifi.png'
 const Home = () => {
   const images = [profile_img1,profile_img2];
   const[currentIndex,setCurrentIndex] = useState(0);
