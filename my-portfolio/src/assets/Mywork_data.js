@@ -1,5 +1,5 @@
-import project1_img from './Project-1-2.png'
-import project2_img from './Project-2-1.png'
+import project1_img from './Project_1_2.png'
+import project2_img from './Project_2_1.png'
 
 
 const Mywork_data = [
