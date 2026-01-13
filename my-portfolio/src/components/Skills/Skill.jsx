@@ -1,8 +1,8 @@
 import React from 'react'
 import './Skill.css'
-import theme_pattern from '../../assets/theme_pattern.svg'
-import Services_Data from '../../assets/services_data'
-import arrow_icon from '../../assets/arrow_icon.svg'
+import theme_pattern from '../../assets/Theme_pattern.svg'
+import Services_Data from '../../assets/Services_data'
+import arrow_icon from '../../assets/Arrow_icon.svg'
 const Skill = () => {
   return (
     <div id='services' className='services'>
