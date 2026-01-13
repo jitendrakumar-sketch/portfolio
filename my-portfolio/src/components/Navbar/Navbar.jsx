@@ -1,11 +1,11 @@
 import React,{useState,useRef,useEffect}from 'react'
 import './Navbar.css'
 // import logo from "../assets/logo_2_3kb.png";
-import logo from "../../assets/logo_2_3kb.png";
-import underline from "../../assets/nav_underline.svg";
+import logo from "../../assets/Logo_2_3kb.png";
+import underline from "../../assets/Nav_underline.svg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import menu_open from "../../assets/menu_open.svg";
-import menu_close from "../../assets/menu_close.svg";
+import menu_open from "../../assets/Menu_open.svg";
+import menu_close from "../../assets/Menu_close.svg";
 
 const Navbar = () => {
   const [menu, setMenu] = useState("home");
